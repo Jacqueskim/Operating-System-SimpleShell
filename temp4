@@ -1,0 +1,54 @@
+     67     363    2074
+---
+> .
+> ..
+> gradescope_test
+> Makefile
+> .out
+> -rw-r--r-- 1 skim945 ugrad     0 Apr 11 20:32 testfile9
+> -rw-r--r-- 1 skim945 ugrad     0 Apr 12 14:02 temp
+> -rw-r--r-- 1 skim945 ugrad   111 Jan  2  2020 testfile3
+> -rw-r--r-- 1 skim945 ugrad   127 Jan  2  2020 testfile2
+> -rw-r--r-- 1 skim945 ugrad  1280 Apr 12 13:19 temp4
+> -rw-r--r-- 1 skim945 ugrad  1433 Jan 10  2020 simple_shell.c
+> -rw-r--r-- 1 skim945 ugrad   154 Jan  2  2020 testfile4
+> -rw-r--r-- 1 skim945 ugrad  2424 Apr 12 14:02 simple_shell.o
+> -rw-r--r-- 1 skim945 ugrad  4208 Apr 12 14:02 shell.o
+> -rw-r--r-- 1 skim945 ugrad    49 Jan  2  2020 testfile1
+> -rw-r--r-- 1 skim945 ugrad    61 Jan  2  2020 testfile
+> -rw-r--r-- 1 skim945 ugrad  6522 Apr 12 13:15 shell.c~
+> -rw-r--r-- 1 skim945 ugrad  6558 Apr 12 14:00 shell.c
+> -rwxr-xr-x 1 skim945 ugrad 24792 Apr 12 14:02 simple
+> -rwxr-xr-x 1 skim945 ugrad 25152 Apr 12 14:02 shell
+> sed.out
+> shell
+> shell.c
+> shell.c~
+> shell.o
+> simple
+> simple_shell.c
+> simple_shell.o
+> temp
+> temp4
+> testfile
+> testfile1
+> testfile2
+> testfile3
+> testfile4
+> testfile9
+ll.c
+> shell.c~
+> shell.o
+> simple
+> simple_shell.c
+> simple_shell.o
+> temp
+> temp2
+> temp3
+> temp4
+> testfile
+> testfile1
+> testfile2
+> testfile3
+> testfile4
+> testfile9
